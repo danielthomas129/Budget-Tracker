@@ -27,7 +27,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 ## Screenshots
 The following animation demonstrates the application functionality:
 
-![DEMO](./budget-Tracker.gif)
+![DEMO](./Budget-Tracker.gif)
 
 ## CLICK THE ICON BELOW: VIDEO DEMO LINK
 
